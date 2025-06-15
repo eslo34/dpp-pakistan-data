@@ -1,0 +1,55 @@
+{
+    "brand": {
+        "brand_name": "FastStyle",
+        "brand_contact": "support@faststyle.com",
+        "brand_country": "Germany"
+    },
+    "product": {
+        "product_id": "FS-TXT-0021",
+        "product_name": "Budget Cotton T-Shirt",
+        "product_type": "Apparel",
+        "product_category": "T-shirt",
+        "gtin": "0987654321098",
+        "material_composition": [
+            {
+                "material": "Conventional Cotton",
+                "percentage": 100
+            }
+        ],
+        "color": "Black",
+        "size": "L",
+        "weight_g": 200,
+        "care_instructions": "Wash at 40\u00b0C, Do not tumble dry"
+    },
+    "factory": {
+        "factory_name": "SpeedTextiles Pvt Ltd",
+        "factory_id": "PK-FACT-5742",
+        "country": "Pakistan",
+        "city": "Faisalabad",
+        "address": "Industrial Zone B, Faisalabad, Pakistan",
+        "certifications": [
+            "ISO 9001"
+        ],
+        "latitude": 31.418,
+        "longitude": 73.0791
+    },
+    "sustainability": {
+        "carbon_footprint_kgco2e": 7.4,
+        "water_usage_liters": 4100,
+        "energy_usage_kwh": 3.8,
+        "recycled_content_percent": 0,
+        "renewable_energy_percent": 5,
+        "durability_rating": "Low"
+    },
+    "compliance": {
+        "reach_compliant": false,
+        "gots_certified": false,
+        "eu_eco_label": false
+    },
+    "digital_id": {
+        "qr_code_link": "https://example.com/dpp/FS-TXT-0021",
+        "nfc_tag": null,
+        "data_format": "JSON"
+    },
+    "timestamp": "2025-06-15T18:17:26.343429Z"
+}
